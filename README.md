@@ -31,3 +31,10 @@ This Project highlights the unique insights gained from an in-depth analysis of
 - **Stock market dataset cleaned** : Jupyter notebook that contains data cleaning process.
 - **Stock_market_dashboard** : Power Bi dashboard that contains visualizations.
 - **Stock market report** : Data analysis report.
+
+## 😺 About Me
+I'm an AI and Data Science Student. In addition to my ongoing studies,I have completed a comprehensive data analyst course. Hope this repository will make you better understand about the project!
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirtibohra15/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KirtiBohra15)
